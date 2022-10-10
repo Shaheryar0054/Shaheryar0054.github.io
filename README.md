@@ -9,7 +9,7 @@
 - Git and github
 
 ## Live Demo 
-# (Shaheryar0054.github.io)
+# https://shaheryar0054.github.io/
 
 # Sample-Project
 # Completely Responsive
